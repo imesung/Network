@@ -106,3 +106,5 @@
 - HTTP 1.0은 매번 필요시에만 connection을 open/close하는 기능을 해결하기 위해, HTTP 1.1을 도입하여 HTTP 1.1에서는 multiple connection을 open할 수 있도록 한다.
 - 몇몇 entity의 경우에는 그 길이를 몰라 이를 해결하기 위해서, HTTP 1.1에서는 chunked encoding을 도입하여 해결하고 있다.
 - 또한, HTTP 1.1에서는 전송한 data를 압축하여 전달하므로 data의 양을 줄이고 있다.
+
+> 다음은 HTTP 1.1과 2.0 비교를 해보자!
