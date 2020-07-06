@@ -1,6 +1,6 @@
 ## DNS(Domain Name System)
 
-> 개인 컴퓨터의 웹에서 [www.naver.com을](http://www.naver.com%EC%9D%84) 입력하면 어떤 과정을 통해 접속하는 지 살펴보자.
+> 개인 컴퓨터의 웹에서 [www.naver.com을](http://www.naver.com%EC%9D%84) 입력하면 어떤 과정을 통해 접근하는 지 살펴보자.
 
 DNS는 IP 주소를 기억하는 것이 어렵기 때문에 DNS가 등장한 것이다. DNS의 과정을 간략히 말하면 웹에서 [www.naver.com을](http://www.naver.com%EC%9D%84) 입력하면 IP를 알아내기 위해 사용자에서 가장 가까운 곳에 위치한 DNS 서버에 [www.naver.com의](http://www.naver.com%EC%9D%98) IP주소를 문의하여 접근하게 되는 것이다.
 
